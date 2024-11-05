@@ -3,7 +3,7 @@
 - 🔭 <h1 align="center">Hi 👋, I'm sana</h1>
 - 🌱 <h3 align="center">A passionate full stack developer from Pakistan
 Working on React js  Next js React Native JavaScript Redux 
-Redux Firebase Agora SDK Firebase | Cloud Messaging Mongo DB Mys Graphql ql MariaDB Git Web-Sockets Firebase | Push Notifications OneSignal | Push Notifications</h3>
+Redux Firebase Agora SDK Firebase| Python, Django ,flask | Cloud Messaging Mongo DB Mys Graphql ql MariaDB Git Web-Sockets Firebase | Push Notifications OneSignal | Push Notifications</h3>
 <p>
 
 Have exposure to building professional websites  and front-end applications . Experienced with a demonstrated history of working in the information technology and services industries . Skilled in FrontEnd Technologies✍ as React.js, Redux, EcmaScript, JavaScript, HTML, CSS, Bootstrap, Flexbox, .GitHub, Net, SQL, and C# for web and window-based applications.
